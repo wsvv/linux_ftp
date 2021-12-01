@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1608560225 source:/home/vv/Ftpcilent/cilent.c
+	"thread.h"
+
+1608564202 /home/vv/Ftpcilent/thread.h
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<dirent.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"unistd.h"
+	<pthread.h>
+
+1608802963 source:/home/vv/Ftpcilent/thread.c
+	"thread.h"
+

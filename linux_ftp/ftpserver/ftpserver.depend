@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1608564276 source:/home/vv/ftpserver/ftpserver.c
+	<stdio.h>
+	<stdlib.h>
+	"thread.h"
+
+1608457734 /home/vv/ftpserver/server_control.h
+	<stdio.h>
+
+1608564202 /home/vv/ftpserver/thread.h
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<dirent.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"unistd.h"
+	<pthread.h>
+
+1608385270 source:/home/vv/ftpserver/server_control.c
+	"server_control.h"
+
+1608800733 source:/home/vv/ftpserver/thread.c
+	"thread.h"
+
