@@ -1,7 +1,7 @@
 # linux_ftp
 
 实现一个FTP服务系统  
-具体：基于客户/服务器交互模式，采用TCP/IP通信协议，SOCKET套接字 实现以支持远程文件传输的客户/服务器软件，支持文件的上传和下载。其中客户端软件命名为myftp，服务器软件命名为ftpserver  
+具体：基于客户/服务器交互模式，采用TCP/IP通信协议，SOCKET套接字 Pthread 实现以支持远程文件传输的客户/服务器软件，支持文件的上传和下载。其中客户端软件命名为myftp，服务器软件命名为ftpserver  
 
 服务器管理员登录  
 ![image](https://user-images.githubusercontent.com/51820921/144196515-d62ed711-52c6-417f-aa7f-2ecf8f97e66a.png)  
